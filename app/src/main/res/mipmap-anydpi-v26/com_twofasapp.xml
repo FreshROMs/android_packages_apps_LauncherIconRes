@@ -3,6 +3,6 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@color/primaryBackground" />
     <foreground>
-        <inset android:drawable="@drawable/themed_icon_2fas_auth" android:inset="25%" />
+        <inset android:drawable="@drawable/themed_icon_2fas_auth" android:inset="27.5%" />
     </foreground>
 </adaptive-icon>
