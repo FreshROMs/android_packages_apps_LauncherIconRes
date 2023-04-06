@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="1080dp" android:width="1080dp" android:viewportWidth="1080" android:viewportHeight="1080">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="36dp" android:width="36dp" android:viewportWidth="1080" android:viewportHeight="1080">
     <group android:translateX="92" android:translateY="91">
         <path android:fillColor="#fff" android:pathData="M444.5 0Q453.3 -1.3 456.5 3L894 440.5L895 442.5L893 441.5L456.5 4Q453.3 0.7 446.5 1L439 4Q440.1 6.7 437.5 6L252 191.5L252 193L250.5 193L238 205.5Q238.8 207.8 236.5 207L232.5 212L221 222.5L219.5 225L215 228.5Q215.8 230.8 213.5 230L208.5 236L196 247.5Q196.8 249.8 194.5 249L4 439.5Q-0.2 443.3 1 452.5L3 455.5L1 454.5Q-1.3 451.3 0 444.5L3 439.5L439.5 3L444.5 0Z" android:strokeColor="#fff" android:strokeWidth="1" android:strokeAlpha="0.8" android:fillAlpha="0.8"/>
         <path android:fillColor="#fff" android:pathData="M479.5 117L501.5 118L515 121.5L512.5 122L501.5 119L479.5 118L476.5 120L477.5 118L479.5 117Z" android:strokeColor="#fff" android:strokeWidth="1" android:strokeAlpha="0.8" android:fillAlpha="0.8"/>
