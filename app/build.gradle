@@ -11,8 +11,8 @@ android {
         minSdk 31
         //noinspection OldTargetApi
         targetSdk 31
-        versionCode 23040607
-        versionName "13.5.3.6"
+        versionCode 23040608
+        versionName "13.5.3.7"
     }
 
     buildTypes {
