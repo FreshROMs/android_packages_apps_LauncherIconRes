@@ -2,7 +2,5 @@
 <adaptive-icon
   xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@color/primaryBackground" />
-    <foreground>
-        <inset android:drawable="@drawable/themed_icon_twitter" android:inset="25%" />
-    </foreground>
+    <foreground android:drawable="@mipmap/com_twitter_android_foreground"/>
 </adaptive-icon>
